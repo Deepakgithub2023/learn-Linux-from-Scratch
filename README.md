@@ -23,5 +23,5 @@ While working with Linux systems, I explored how the file system is structured a
 Directories like /bin, /lib, /sbin are now symbolic links to /usr/* in modern Linux systems.
 
 💡 Understanding this structure is essential for DevOps, System Admin, and troubleshooting tasks.
+<img width="1024" height="1536" alt="linux life system" src="https://github.com/user-attachments/assets/21c7249f-b939-44bd-88be-34f62ceff8f6" />
 
-#Linux #DevOps #SystemAdministration #Cloud #LearningJourney
