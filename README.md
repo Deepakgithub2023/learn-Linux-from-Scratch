@@ -30,6 +30,7 @@ Directories like /bin, /lib, /sbin are now symbolic links to /usr/* in modern Li
 Managing users effectively is crucial for maintaining security, access control, and system stability in Linux systems.
 
 🔹 Key Highlights:
+
 ✔️ Understand core files: /etc/passwd, /etc/shadow, /etc/group
 
 ✔️ Create users with useradd & adduser
