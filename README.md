@@ -31,12 +31,21 @@ Managing users effectively is crucial for maintaining security, access control, 
 
 🔹 Key Highlights:
 ✔️ Understand core files: /etc/passwd, /etc/shadow, /etc/group
+
 ✔️ Create users with useradd & adduser
+
 ✔️ Manage passwords & enforce policies using passwd & chage
+
 ✔️ Modify users with usermod
+
 ✔️ Delete users securely with userdel
+
 ✔️ Handle groups & permissions efficiently
+
 ✔️ Grant sudo access for controlled privilege escalation
+
+
+
 
 <img width="1024" height="1536" alt="user-managment" src="https://github.com/user-attachments/assets/9165b368-423b-40aa-992f-d620daee837d" />
 
