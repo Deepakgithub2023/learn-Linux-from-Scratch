@@ -50,3 +50,28 @@ Managing users effectively is crucial for maintaining security, access control, 
 
 <img width="1024" height="1536" alt="user-managment" src="https://github.com/user-attachments/assets/9165b368-423b-40aa-992f-d620daee837d" />
 
+##############################################################################
+
+Every DevOps engineer and system administrator should be comfortable with Linux file management. These simple commands can make your workflow faster, cleaner, and more efficient.
+
+🔹 Essential Commands You Should Know:
+
+✔️ Navigate directories with cd, pwd, ls
+
+✔️ Create & delete files/folders using mkdir, rm, rmdir
+
+✔️ Copy & move data with cp, mv
+
+✔️ View file content using cat, less, head, tail
+
+✔️ Edit files with nano, vi
+
+✔️ Write & append data using echo
+
+💡 These commands are the foundation of Linux, DevOps, and Cloud operations. Mastering them helps you automate tasks and manage systems efficiently.
+
+<img width="1024" height="1536" alt="file-system" src="https://github.com/user-attachments/assets/9925312d-4a2b-4c44-8b0f-a106dc38c4ce" />
+
+
+
+
