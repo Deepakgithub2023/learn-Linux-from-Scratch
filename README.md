@@ -72,6 +72,26 @@ Every DevOps engineer and system administrator should be comfortable with Linux 
 
 <img width="1024" height="1536" alt="file-system" src="https://github.com/user-attachments/assets/9925312d-4a2b-4c44-8b0f-a106dc38c4ce" />
 
+################################################################################
+
+🔹 Key Highlights:
+
+✔️ Understand modes: Normal, Insert, Command
+
+✔️ Navigate quickly using h j k l, gg, G
+
+✔️ Edit faster with dd, yy, p, u
+
+✔️ Search & replace like a pro using /pattern & :%s/old/new/g
+
+✔️ Manage files easily with :w, :q, :wq
+
+
+💡 Pro Tip: Practice daily! VI is all about muscle memory. The more you use it, the faster you become.
+
+🔥 Small shortcuts → Massive productivity boost!
+
+<img width="1024" height="1536" alt="Vim Editor" src="https://github.com/user-attachments/assets/04100f17-b0eb-4a45-a24e-71a02e57ddb4" />
 
 
 
