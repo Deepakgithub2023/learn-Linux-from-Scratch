@@ -93,5 +93,41 @@ Every DevOps engineer and system administrator should be comfortable with Linux 
 
 <img width="1024" height="1536" alt="Vim Editor" src="https://github.com/user-attachments/assets/04100f17-b0eb-4a45-a24e-71a02e57ddb4" />
 
+#################################################################
+
+🔐 **Mastering File Permissions in Linux**
+
+Understanding file permissions is crucial for maintaining security and control in any Linux system. Every file and directory is governed by three key roles:
+
+👤 **Owner (User)**
+
+👥 **Group**
+
+🌍 **Others**
 
 
+Each role can have:
+
+✔️ Read (r) – View content
+
+✔️ Write (w) – Modify content
+
+✔️ Execute (x) – Run files
+
+💡 Using commands like `chmod`, `chown`, and `chgrp`, you can easily manage access and ownership.
+
+🚀 Key Highlights:
+• Use `chmod` to change permissions (symbolic or numeric)
+• Use `chown` to change file ownership
+• Use `chgrp` to manage group access
+• Understand special permissions like SetUID, SetGID, and Sticky Bit
+• Control default permissions with `umask`
+
+🔎 Example:
+`chmod 755 filename` → Owner (rwx), Group (r-x), Others (r-x)
+
+Mastering these concepts helps you build a secure, efficient, and well-managed system environment. 💻
+
+#Linux #DevOps #SystemAdministration #CloudComputing #CyberSecurity #LinuxCommands #TechSkills #Learning #ITInfrastructure #OpenSource #CareerGrowth
+
+<img width="1024" height="1536" alt="File Permission" src="https://github.com/user-attachments/assets/f811d80b-ed7f-48e1-bde8-f9d5abff436b" />
