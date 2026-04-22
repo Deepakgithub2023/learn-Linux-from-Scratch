@@ -25,6 +25,8 @@ Directories like /bin, /lib, /sbin are now symbolic links to /usr/* in modern Li
 💡 Understanding this structure is essential for DevOps, System Admin, and troubleshooting tasks.
 <img width="1024" height="1536" alt="linux life system" src="https://github.com/user-attachments/assets/21c7249f-b939-44bd-88be-34f62ceff8f6" />
 
+
+
 ###############################################################################################################
 
 Managing users effectively is crucial for maintaining security, access control, and system stability in Linux systems.
@@ -47,8 +49,9 @@ Managing users effectively is crucial for maintaining security, access control, 
 
 
 
-
 <img width="1024" height="1536" alt="user-managment" src="https://github.com/user-attachments/assets/9165b368-423b-40aa-992f-d620daee837d" />
+
+
 
 ##############################################################################
 
@@ -72,6 +75,7 @@ Every DevOps engineer and system administrator should be comfortable with Linux 
 
 <img width="1024" height="1536" alt="file-system" src="https://github.com/user-attachments/assets/9925312d-4a2b-4c44-8b0f-a106dc38c4ce" />
 
+
 ################################################################################
 
 🔹 Key Highlights:
@@ -92,6 +96,8 @@ Every DevOps engineer and system administrator should be comfortable with Linux 
 🔥 Small shortcuts → Massive productivity boost!
 
 <img width="1024" height="1536" alt="Vim Editor" src="https://github.com/user-attachments/assets/04100f17-b0eb-4a45-a24e-71a02e57ddb4" />
+
+
 
 #################################################################
 
@@ -132,6 +138,8 @@ Mastering these concepts helps you build a secure, efficient, and well-managed s
 
 <img width="1024" height="1536" alt="File Permission" src="https://github.com/user-attachments/assets/f811d80b-ed7f-48e1-bde8-f9d5abff436b" />
 
+
+
 ####################################################################
 
 ⚙️ **Mastering Process Management in Linux**
@@ -164,6 +172,7 @@ Manage background services easily using `systemctl` (start, stop, enable service
 📌 Mastering these commands helps you become more efficient in Linux system administration and DevOps workflows.
 
 #Linux #DevOps #SystemAdministration #CloudComputing #TechSkills #ITInfrastructure #Automation #OpenSource #CareerGrowth #Learning #Trending #TechCommunity #Engineering
+
 
 
 
