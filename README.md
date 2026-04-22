@@ -131,3 +131,40 @@ Mastering these concepts helps you build a secure, efficient, and well-managed s
 #Linux #DevOps #SystemAdministration #CloudComputing #CyberSecurity #LinuxCommands #TechSkills #Learning #ITInfrastructure #OpenSource #CareerGrowth
 
 <img width="1024" height="1536" alt="File Permission" src="https://github.com/user-attachments/assets/f811d80b-ed7f-48e1-bde8-f9d5abff436b" />
+
+####################################################################
+
+⚙️ **Mastering Process Management in Linux**
+
+A process is simply a running program in Linux, and managing it efficiently is key to maintaining system performance and stability. 🚀
+
+🔍 **What You Should Know:**
+Every process has a unique **PID (Process ID)** and can be monitored, controlled, or terminated using powerful Linux commands.
+
+💡 **Essential Commands:**
+• `ps`, `pgrep`, `pidof` → View and find processes
+• `kill`, `pkill` → Terminate processes
+• `top`, `htop` → Monitor system performance
+• `nice`, `renice` → Manage process priority
+
+🔄 **Process Control:**
+✔️ Run in background → `command &`
+✔️ Bring to foreground → `fg`
+✔️ Suspend → `Ctrl + Z`
+✔️ Resume → `bg`
+
+⚡ **Pro Tips:**
+• Use `kill -9` only when necessary (force kill)
+• Adjust priorities wisely to optimize performance
+• Monitor regularly using `top` or `htop`
+
+🛠️ **Daemon Management:**
+Manage background services easily using `systemctl` (start, stop, enable services).
+
+📌 Mastering these commands helps you become more efficient in Linux system administration and DevOps workflows.
+
+#Linux #DevOps #SystemAdministration #CloudComputing #TechSkills #ITInfrastructure #Automation #OpenSource #CareerGrowth #Learning #Trending #TechCommunity #Engineering
+
+
+
+
