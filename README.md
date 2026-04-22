@@ -171,9 +171,9 @@ Manage background services easily using `systemctl` (start, stop, enable service
 
 📌 Mastering these commands helps you become more efficient in Linux system administration and DevOps workflows.
 
-#Linux #DevOps #SystemAdministration #CloudComputing #TechSkills #ITInfrastructure #Automation #OpenSource #CareerGrowth #Learning #Trending #TechCommunity #Engineering
+#Linux #DevOps #SystemAdministration #CloudComputing #TechSkills #ITInfrastructure #Automation #OpenSource #CareerGrowth #Learning #Trending #TechCommunity#Engineering
 
-
+<img width="1024" height="1536" alt="process managment" src="https://github.com/user-attachments/assets/f614b6c7-0b3c-4484-a909-ceb5bddb3bf5" />
 
 
 
