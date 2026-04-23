@@ -215,6 +215,9 @@ Monitoring system resources is essential to ensure performance, detect issues ea
 ⚡ Why It Matters:
 Regular monitoring helps in identifying bottlenecks, improving performance, ensuring security, and maintaining a stable Linux environment.
 
+<img width="1024" height="1536" alt="Linux System Monitiring" src="https://github.com/user-attachments/assets/9034131b-f0f7-4771-9e7a-d9bd56e939f6" />
+
+
 
 
 
