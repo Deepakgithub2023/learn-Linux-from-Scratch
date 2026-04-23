@@ -175,5 +175,48 @@ Manage background services easily using `systemctl` (start, stop, enable service
 
 <img width="1024" height="1536" alt="process managment" src="https://github.com/user-attachments/assets/f614b6c7-0b3c-4484-a909-ceb5bddb3bf5" />
 
+########################################################################
+
+📊 Linux System Monitoring – Keep Your System Healthy & Optimized
+
+Monitoring system resources is essential to ensure performance, detect issues early, and troubleshoot effectively in Linux environments. 🚀
+
+💡 Key Areas to Monitor:
+🖥️ CPU & Memory
+💾 Disk Usage
+🌐 Network Activity
+📄 System Logs
+
+🔍 Essential Commands You Should Know:
+
+👉 CPU & Memory Monitoring
+• top – Real-time monitoring
+• htop – Interactive process viewer
+• vmstat – System performance stats
+• free -m – Memory usage
+
+👉 Disk Monitoring
+• df -h – Disk space usage
+• du -sh /path – Directory size
+• iostat – Disk I/O stats
+
+👉 Network Monitoring
+• ip a – Network interfaces
+• ss -tulnp – Open ports & connections
+• ping – Test connectivity
+• traceroute – Trace network path
+• nslookup – DNS resolution
+
+👉 Log Monitoring
+• tail -f /var/log/syslog – Live logs
+• journalctl -f – Systemd logs
+• dmesg | tail – Kernel logs
+
+⚡ Why It Matters:
+Regular monitoring helps in identifying bottlenecks, improving performance, ensuring security, and maintaining a stable Linux environment.
+
+
+
+
 
 
