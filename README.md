@@ -217,6 +217,36 @@ Regular monitoring helps in identifying bottlenecks, improving performance, ensu
 
 <img width="1024" height="1536" alt="Linux System Monitiring" src="https://github.com/user-attachments/assets/9034131b-f0f7-4771-9e7a-d9bd56e939f6" />
 
+##########################################################################3
+🌐 **Essential Linux Networking Commands You Should Know**
+
+Networking is a core skill for every Linux user, whether you're into **DevOps, System Administration, or Cloud Engineering**. 🚀
+
+Here are some must-know commands for managing and troubleshooting network connections:
+
+🔹 `ping google.com`
+➡️ Checks connectivity to a remote server and verifies network reachability.
+
+🔹 `ifconfig` *(deprecated)*
+➡️ Displays network interfaces (use `ip` command instead).
+
+🔹 `ip a`
+➡️ Shows IP addresses and details of network interfaces.
+
+🔹 `netstat -tulnp`
+➡️ Displays active connections and listening ports.
+
+🔹 `curl https://example.com`
+➡️ Fetches and displays webpage content from a URL.
+
+🔹 `wget https://example.com/file.zip`
+➡️ Downloads files directly from the internet.
+
+
+
+
+
+
 
 
 
