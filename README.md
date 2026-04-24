@@ -242,6 +242,8 @@ Here are some must-know commands for managing and troubleshooting network connec
 🔹 `wget https://example.com/file.zip`
 ➡️ Downloads files directly from the internet.
 
+<img width="1254" height="1254" alt="Network commands" src="https://github.com/user-attachments/assets/9b1dab0e-ed23-4262-966d-f3b3dfa627ca" />
+
 
 
 
