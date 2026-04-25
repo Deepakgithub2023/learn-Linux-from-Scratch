@@ -244,7 +244,48 @@ Here are some must-know commands for managing and troubleshooting network connec
 
 <img width="1254" height="1254" alt="Network commands" src="https://github.com/user-attachments/assets/9b1dab0e-ed23-4262-966d-f3b3dfa627ca" />
 
+########################################################################
 
+💾 **Disk & Storage Management in Linux – Complete Guide**
+
+Efficient disk and storage management is essential for maintaining system performance, reliability, and scalability in Linux environments. 🚀
+
+🔍 **Key Areas You Should Know:**
+
+📌 **View Disk Information**
+• `lsblk` – List block devices
+• `fdisk -l` – Show partitions
+• `df -h` – Disk space usage
+• `du -sh /path` – Directory size
+
+📌 **Partition Management**
+• `fdisk /dev/sdX` – Create/manage partitions
+• `mkfs.ext4 /dev/sdX1` – Format as ext4
+• `mkfs.xfs /dev/sdX1` – Format as XFS
+
+📌 **Mounting & Unmounting**
+• `mount /dev/sdX1 /mnt` – Mount partition
+• `umount /mnt` – Unmount
+• `mount -o remount,rw /mnt` – Remount as read-write
+
+📌 **LVM (Logical Volume Management)**
+• `pvcreate` → Create physical volume
+• `vgcreate` → Create volume group
+• `lvcreate` → Create logical volume
+• Format & mount using `mkfs` + `mount`
+
+📌 **Swap Management**
+• `mkswap` – Create swap
+• `swapon` – Enable swap
+• `swapoff` – Disable swap
+
+⚡ **When to Use What?**
+✔️ New disk → `fdisk + mkfs + mount`
+✔️ Existing partition → `mount`
+✔️ Check disks → `lsblk`
+
+💡 **Pro Tip:**
+Always verify disks before making changes and take backups to avoid data loss.
 
 
 
