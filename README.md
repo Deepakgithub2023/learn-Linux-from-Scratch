@@ -287,6 +287,9 @@ Efficient disk and storage management is essential for maintaining system perfor
 💡 **Pro Tip:**
 Always verify disks before making changes and take backups to avoid data loss.
 
+<img width="1024" height="1536" alt="Storage Managment" src="https://github.com/user-attachments/assets/bcbe15fa-3bbe-4f0b-a6f4-06d578bb78f2" />
+
+
 
 
 
